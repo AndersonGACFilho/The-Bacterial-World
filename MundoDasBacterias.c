@@ -66,6 +66,7 @@ int main(){
         {
         case fim:
             printf("Obrigado por utilizar meu programa.\n");
+            System("PAUSE")
             break;
         case criarMundo:
             if(mundo!=NULL)
